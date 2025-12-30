@@ -234,6 +234,7 @@ section {
 .the-projects {
   display: inline-flex;
   gap: 18px;
+  cursor: pointer;
 }
 
 /* PROJECT CARD */
